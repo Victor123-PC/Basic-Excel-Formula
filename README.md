@@ -32,6 +32,8 @@ Fictional data
 
  The views are;
 
+ ![](Excel.png)
+
  
 
 
