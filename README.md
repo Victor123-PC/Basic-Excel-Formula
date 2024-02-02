@@ -53,6 +53,10 @@ SUMIF FUNCTION
 ![](Sumif.png)
 
 ![](SUMIF@.png)
+
+CountIf function 
+
+![](CountIF.png)
  
 
 
