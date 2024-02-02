@@ -63,6 +63,10 @@ Index
 ![](Index.png)
 
 ![](IndexMatch.png)
+
+Function to detect if it is a number or not
+
+![](ISnumber.png)
  
 
 
