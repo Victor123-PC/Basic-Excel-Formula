@@ -32,6 +32,10 @@ Fictional data
 
  The views are;
 
+ SUM FUNCTION
+
+ ![](Sum.png)
+
  
 
 
