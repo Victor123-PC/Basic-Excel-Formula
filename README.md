@@ -91,7 +91,9 @@ Value function
 ![](VALUE@.png)
  
 
+Sorting
 
+![](SORTING.png)
 
 
 
