@@ -40,6 +40,10 @@ Fictional data
 
  ![](Average.png)
 
+ Maximum function
+
+ ![](Max.png)
+
  
 
 
