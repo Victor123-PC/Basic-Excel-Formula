@@ -36,6 +36,10 @@ Fictional data
 
  ![](Sum.png)
 
+ Average function
+
+ ![](Average.png)
+
  
 
 
