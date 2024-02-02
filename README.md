@@ -99,6 +99,8 @@ Chart
 
 ![](CHART.png)
 
+![](PivotChart.png)
+
 
 
 
