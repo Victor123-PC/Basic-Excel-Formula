@@ -75,6 +75,10 @@ Len function
 Join function 
 
 ![](Join.png)
+
+Proper function 
+
+![](PROPER.png)
  
 
 
