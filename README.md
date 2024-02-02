@@ -83,6 +83,10 @@ Proper function
 Substitute function 
 
 ![](Subst.png)
+
+Value function 
+
+![](VALUE.png)
  
 
 
