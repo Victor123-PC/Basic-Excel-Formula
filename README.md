@@ -51,6 +51,8 @@ If function
 SUMIF FUNCTION
 
 ![](Sumif.png)
+
+![](SUMIF@.png)
  
 
 
