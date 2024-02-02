@@ -57,6 +57,10 @@ SUMIF FUNCTION
 CountIf function 
 
 ![](CountIF.png)
+
+Index 
+
+![](Index.png)
  
 
 
