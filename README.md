@@ -95,6 +95,9 @@ Sorting
 
 ![](SORTING.png)
 
+Chart
+
+![](CHART.png)
 
 
 
