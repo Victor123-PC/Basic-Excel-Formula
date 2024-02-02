@@ -87,6 +87,8 @@ Substitute function
 Value function 
 
 ![](VALUE.png)
+
+![](VALUE@.png)
  
 
 
