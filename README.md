@@ -61,6 +61,8 @@ CountIf function
 Index 
 
 ![](Index.png)
+
+![](IndexMatch.png)
  
 
 
