@@ -44,6 +44,9 @@ Fictional data
 
  ![](Max.png)
 
+If function
+
+![](IF.png)
  
 
 
