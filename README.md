@@ -79,6 +79,10 @@ Join function
 Proper function 
 
 ![](PROPER.png)
+
+Substitute function 
+
+![](Subst.png)
  
 
 
