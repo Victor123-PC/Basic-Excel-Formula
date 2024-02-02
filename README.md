@@ -71,6 +71,10 @@ Function to detect if it is a number or not
 Len function
 
 ![](LEN.png)
+
+Join function 
+
+![](Join.png)
  
 
 
