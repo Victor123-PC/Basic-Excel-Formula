@@ -47,6 +47,10 @@ Fictional data
 If function
 
 ![](IF.png)
+
+SUMIF FUNCTION
+
+![](Sumif.png)
  
 
 
