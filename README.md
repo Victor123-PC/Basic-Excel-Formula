@@ -67,6 +67,10 @@ Index
 Function to detect if it is a number or not
 
 ![](ISnumber.png)
+
+Len function
+
+![](LEN.png)
  
 
 
